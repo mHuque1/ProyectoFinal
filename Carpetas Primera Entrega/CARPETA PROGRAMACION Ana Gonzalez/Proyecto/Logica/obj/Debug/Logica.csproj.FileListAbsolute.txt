@@ -1,0 +1,36 @@
+C:\Users\holal\source\repos\Proyecto\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto\Logica\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\Proyecto\Logica\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\Proyecto\Logica\obj\Debug\Logica.dll
+C:\Users\holal\source\repos\Proyecto\Logica\obj\Debug\Logica.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.dll
+C:\Users\holal\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.pdb
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\bin\Debug\Logica.dll
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\bin\Debug\Logica.pdb
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.dll
+C:\Users\Admin\source\repos\Proyecto 0.1\Logica\obj\Debug\Logica.pdb
+C:\Users\holal\source\repos\xd\Logica\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\xd\Logica\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\xd\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\xd\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\xd\Logica\obj\Debug\Logica.dll
+C:\Users\holal\source\repos\xd\Logica\obj\Debug\Logica.pdb
+C:\Users\holal\source\repos\XDXDXD\Logica\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\XDXDXD\Logica\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\XDXDXD\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\XDXDXD\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\XDXDXD\Logica\obj\Debug\Logica.dll
+C:\Users\holal\source\repos\XDXDXD\Logica\obj\Debug\Logica.pdb
+C:\Users\holal\Desktop\Proyecto\Logica\bin\Debug\Logica.dll
+C:\Users\holal\Desktop\Proyecto\Logica\bin\Debug\Logica.pdb
+C:\Users\holal\Desktop\Proyecto\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\holal\Desktop\Proyecto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\holal\Desktop\Proyecto\Logica\obj\Debug\Logica.dll
+C:\Users\holal\Desktop\Proyecto\Logica\obj\Debug\Logica.pdb

@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B2C7803-CA42-4C09-BED6-D894E106F326}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spa</RootNamespace>
+    <AssemblyName>Spa 0.2</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942, processorArchitecture=MSIL">
+      <HintPath>..\packages\Portable.BouncyCastle.1.8.9\lib\net40\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.Licensing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCircleProgress, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuCircleProgress.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuColorTransition, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuColorTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDatePicker, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuDatePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGauge, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuGauge.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGradientPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuGradientPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuGroupBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuGroupBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuProgressBar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRadioButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuRadioButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuRating, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuRating.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuScrollBar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuScrollBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSeparator, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuSeparator.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShapes, Version=4.1.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuShapes.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSnackbar, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuSnackbar.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToggleSwitch, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuToggleSwitch.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuToolTip, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuTransition, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuUserControl, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.BunifuUserControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.Deprecated, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <HintPath>..\packages\Bunifu.UI.WinForms.5.0.3\lib\Bunifu.UI.WinForms.Deprecated.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Desktop\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.8.0.16, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.8.0.16\lib\net40\CircularProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.3.4.1\lib\net40\Common.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Common.Logging.Core, Version=3.4.1.0, Culture=neutral, PublicKeyToken=af08829b84f0328e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Common.Logging.Core.3.4.1\lib\net40\Common.Logging.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Desktop\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.WinForms, Version=0.9.7.1, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.WinForms.0.9.7.1\lib\net45\LiveCharts.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="MaterialSkin, Version=2.2.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.2.2.2.1\lib\net461\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.26.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="WinFormAnimation, Version=1.6.0.4, Culture=neutral, PublicKeyToken=310fd07b25df79b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.6.0.4\lib\net40\WinFormAnimation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\frmIncioAdministrativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmIncioAdministrativo.Designer.cs">
+      <DependentUpon>frmIncioAdministrativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmListaAcompañantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmListaAcompañantes.Designer.cs">
+      <DependentUpon>frmListaAcompañantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionServicio.Designer.cs">
+      <DependentUpon>frmModificacionServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionEntrada.Designer.cs">
+      <DependentUpon>frmModificacionEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmModificacionTotalAPagar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmModificacionTotalAPagar.Designer.cs">
+      <DependentUpon>frmModificacionTotalAPagar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmPantallaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmPantallaAdmin.Designer.cs">
+      <DependentUpon>frmPantallaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmDatosClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmDatosClientes.Designer.cs">
+      <DependentUpon>frmDatosClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmInicioAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmInicioAdmin.Designer.cs">
+      <DependentUpon>frmInicioAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FrmModificacionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FrmModificacionCliente.Designer.cs">
+      <DependentUpon>FrmModificacionCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmModificarServiciosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmModificarServiciosCliente.Designer.cs">
+      <DependentUpon>frmModificarServiciosCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmReservas.Designer.cs">
+      <DependentUpon>frmReservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmServiciosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmServiciosCliente.Designer.cs">
+      <DependentUpon>frmServiciosCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\reserva\frmOtros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\frmOtros.Designer.cs">
+      <DependentUpon>frmOtros.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\reserva\frmReservaCliente2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\frmReservaCliente2.Designer.cs">
+      <DependentUpon>frmReservaCliente2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\reserva\reservaHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\reservaHorarios.Designer.cs">
+      <DependentUpon>reservaHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargar.Designer.cs">
+      <DependentUpon>frmCargar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfiguraciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfiguraciones.Designer.cs">
+      <DependentUpon>frmConfiguraciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmAltaEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmAltaEntrada.Designer.cs">
+      <DependentUpon>frmAltaEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmAltaServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmAltaServicio.Designer.cs">
+      <DependentUpon>frmAltaServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmBajaLogicaServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmBajaLogicaServicio.Designer.cs">
+      <DependentUpon>frmBajaLogicaServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmDatosEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmDatosEmpleados.Designer.cs">
+      <DependentUpon>frmDatosEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmdou.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmdou.Designer.cs">
+      <DependentUpon>frmdou.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionEmpleado.Designer.cs">
+      <DependentUpon>frmModificacionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmPantallaGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmPantallaGerente.designer.cs">
+      <DependentUpon>frmPantallaGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmInicioGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmInicioGerente.Designer.cs">
+      <DependentUpon>frmInicioGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmServiciosYCostos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmServiciosYCostos.Designer.cs">
+      <DependentUpon>frmServiciosYCostos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmBienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmBienvenida.Designer.cs">
+      <DependentUpon>frmBienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmToken.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmToken.Designer.cs">
+      <DependentUpon>frmToken.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages\frmNegativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\frmNegativo.Designer.cs">
+      <DependentUpon>frmNegativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages\frmPositivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\frmPositivo.Designer.cs">
+      <DependentUpon>frmPositivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages\frmSiNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\frmSiNo.Designer.cs">
+      <DependentUpon>frmSiNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="testDataSet.cs">
+      <DependentUpon>testDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="testDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>testDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="VerificadorPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerificadorPass.Designer.cs">
+      <DependentUpon>VerificadorPass.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\frmIncioAdministrativo.resx">
+      <DependentUpon>frmIncioAdministrativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmListaAcompañantes.resx">
+      <DependentUpon>frmListaAcompañantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmModificacionServicio.resx">
+      <DependentUpon>frmModificacionServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmModificacionEntrada.resx">
+      <DependentUpon>frmModificacionEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmModificacionTotalAPagar.resx">
+      <DependentUpon>frmModificacionTotalAPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmPantallaAdmin.resx">
+      <DependentUpon>frmPantallaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmDatosClientes.resx">
+      <DependentUpon>frmDatosClientes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmInicioAdmin.resx">
+      <DependentUpon>frmInicioAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FrmModificacionCliente.resx">
+      <DependentUpon>FrmModificacionCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmModificarServiciosCliente.resx">
+      <DependentUpon>frmModificarServiciosCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmReservas.resx">
+      <DependentUpon>frmReservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmServiciosCliente.resx">
+      <DependentUpon>frmServiciosCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\frmOtros.resx">
+      <DependentUpon>frmOtros.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\frmReservaCliente2.resx">
+      <DependentUpon>frmReservaCliente2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\reservaHorarios.resx">
+      <DependentUpon>reservaHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargar.resx">
+      <DependentUpon>frmCargar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfiguraciones.resx">
+      <DependentUpon>frmConfiguraciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmAltaEntrada.resx">
+      <DependentUpon>frmAltaEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmAltaServicio.resx">
+      <DependentUpon>frmAltaServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmBajaLogicaServicio.resx">
+      <DependentUpon>frmBajaLogicaServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmDatosEmpleados.resx">
+      <DependentUpon>frmDatosEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmdou.resx">
+      <DependentUpon>frmdou.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmModificacionEmpleado.resx">
+      <DependentUpon>frmModificacionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmPantallaGerente.resx">
+      <DependentUpon>frmPantallaGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmInicioGerente.resx">
+      <DependentUpon>frmInicioGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmServiciosYCostos.resx">
+      <DependentUpon>frmServiciosYCostos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmBienvenida.resx">
+      <DependentUpon>frmBienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmToken.resx">
+      <DependentUpon>frmToken.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\frmNegativo.resx">
+      <DependentUpon>frmNegativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\frmPositivo.resx">
+      <DependentUpon>frmPositivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\frmSiNo.resx">
+      <DependentUpon>frmSiNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VerificadorPass.resx">
+      <DependentUpon>VerificadorPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="testDataSet.xsc">
+      <DependentUpon>testDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="testDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>testDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="testDataSet.xss">
+      <DependentUpon>testDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{B5D864BC-0BD1-4094-A201-08034F78835D}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correctoLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CorrectoSalirbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\errorLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GerenteLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GerenteLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoLogOutCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoLogOutGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogo32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ModificarLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ModificarLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReservaClienteLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warningLogo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warningLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2323.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9999.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\34534534544.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\constructor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ModificarLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xdd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eliminar-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-lápiz-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\xda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sssh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123aaa.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

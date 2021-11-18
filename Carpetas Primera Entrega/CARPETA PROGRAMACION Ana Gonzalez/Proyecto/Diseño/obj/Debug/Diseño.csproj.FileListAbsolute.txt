@@ -1,0 +1,247 @@
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmAdmin.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Form1.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmGerente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmPantalla.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmAdmin.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash_scrren_2._0.Form1.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmGerente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmPantalla.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.exe
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.exe
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.exe
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\Logica.dll
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\Logica.pdb
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.exe
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.pdb
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.Messages.frmError.resources
+C:\Users\Admin\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.1\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\Diseño.exe
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\Logica.dll
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\Logica.pdb
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\source\repos\dooou\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.exe
+C:\Users\Admin\source\repos\dooou\Diseño\obj\Debug\Diseño.pdb
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\Diseño.exe
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\Diseño.pdb
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\xd\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.exe
+C:\Users\holal\source\repos\xd\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\Logica.dll
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\Logica.pdb
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.exe
+C:\Users\Admin\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.exe
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.pdb

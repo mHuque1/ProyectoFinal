@@ -1,0 +1,158 @@
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmAdmin.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Form1.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmGerente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.frmPantalla.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\splash scrren 2.0\splash scrren 2.0\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmAdmin.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash_scrren_2._0.Form1.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmGerente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmPantalla.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\Proyecto\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\splash scrren 2.0.exe.config
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmAdmin.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\splash_scrren_2._0.Form1.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmGerente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmPantalla.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\splash_scrren_2._0.Properties.Resources.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\splash scrren 2.0.exe
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\splash scrren 2.0.pdb
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.Licensing.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\holal\source\repos\Proyecto 0.2\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources

@@ -1,0 +1,9 @@
+Usuario Gerente:
+
+- usuario: gerente	
+- contraseña: gerente
+
+Usuario Administrador:
+
+- usuario: user
+- contraseña: user

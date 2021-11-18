@@ -1,0 +1,9 @@
+C:\Users\holal\source\repos\Proyecto\datoss\bin\Debug\datoss.dll
+C:\Users\holal\source\repos\Proyecto\datoss\bin\Debug\datoss.pdb
+C:\Users\holal\source\repos\Proyecto\datoss\bin\Debug\MySql.Data.dll
+C:\Users\holal\source\repos\Proyecto\datoss\bin\Debug\MySql.Data.xml
+C:\Users\holal\source\repos\Proyecto\datoss\obj\Debug\datoss.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\Proyecto\datoss\obj\Debug\datoss.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\Proyecto\datoss\obj\Debug\datoss.csproj.CopyComplete
+C:\Users\holal\source\repos\Proyecto\datoss\obj\Debug\datoss.dll
+C:\Users\holal\source\repos\Proyecto\datoss\obj\Debug\datoss.pdb

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B92E1F2D-26CF-49AB-8247-AA876BB24D1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Spa</RootNamespace>
+    <AssemblyName>Spa</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Proyecto.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Desktop\BUNIFU UI\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="CircularProgressBar, Version=2.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\CircularProgressBar.2.2.0.0\lib\net35-Client\CircularProgressBar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinFormAnimation, Version=1.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\WinFormAnimation.1.3.0.0\lib\net35-Client\WinFormAnimation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\frmModificarServiciosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmModificarServiciosCliente.Designer.cs">
+      <DependentUpon>frmModificarServiciosCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionPrecio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmModificacionPrecio.Designer.cs">
+      <DependentUpon>frmModificacionPrecio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\frmBienvenida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\frmBienvenida.Designer.cs">
+      <DependentUpon>frmBienvenida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmDatos.Designer.cs">
+      <DependentUpon>frmDatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmInicioGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmInicioGerente.Designer.cs">
+      <DependentUpon>frmInicioGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\FrmModificacionCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\FrmModificacionCliente.Designer.cs">
+      <DependentUpon>FrmModificacionCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gerente\frmPantallaGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gerente\frmPantallaGerente.Designer.cs">
+      <DependentUpon>frmPantallaGerente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\reserva\frmReservaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\frmReservaCliente.Designer.cs">
+      <DependentUpon>frmReservaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmServiciosCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmServiciosCliente.Designer.cs">
+      <DependentUpon>frmServiciosCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmPantallaAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmPantallaAdmin.Designer.cs">
+      <DependentUpon>frmPantallaAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages\frmCorrecto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messages\frmCorrecto.Designer.cs">
+      <DependentUpon>frmCorrecto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Admin\reserva\reservaHorarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\reservaHorarios.Designer.cs">
+      <DependentUpon>reservaHorarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\reserva\reservaTranslado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\reserva\reservaTranslado.Designer.cs">
+      <DependentUpon>reservaTranslado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\frmInicioAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\frmInicioAdmin.Designer.cs">
+      <DependentUpon>frmInicioAdmin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\frmModificarServiciosCliente.resx">
+      <DependentUpon>frmModificarServiciosCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmModificacionPrecio.resx">
+      <DependentUpon>frmModificacionPrecio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\frmBienvenida.resx">
+      <DependentUpon>frmBienvenida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmDatos.resx">
+      <DependentUpon>frmDatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmInicioGerente.resx">
+      <DependentUpon>frmInicioGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\FrmModificacionCliente.resx">
+      <DependentUpon>FrmModificacionCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gerente\frmPantallaGerente.resx">
+      <DependentUpon>frmPantallaGerente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\frmReservaCliente.resx">
+      <DependentUpon>frmReservaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmServiciosCliente.resx">
+      <DependentUpon>frmServiciosCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmPantallaAdmin.resx">
+      <DependentUpon>frmPantallaAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages\frmCorrecto.resx">
+      <DependentUpon>frmCorrecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\reservaHorarios.resx">
+      <DependentUpon>reservaHorarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\reserva\reservaTranslado.resx">
+      <DependentUpon>reservaTranslado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\frmInicioAdmin.resx">
+      <DependentUpon>frmInicioAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\userLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GerenteLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogo32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReservaClienteLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ModificarLogoGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{b5d864bc-0bd1-4094-a201-08034f78835d}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\datosGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exitLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GerenteLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\InicioLogoGerente2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaximizeLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MinimizeLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ModificarLogoGerente1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoLogOutCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logoLogOutGerente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CorrectoSalirbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correctoLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warningLogo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warningLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\errorLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

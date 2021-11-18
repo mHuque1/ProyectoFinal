@@ -1,0 +1,32 @@
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.exe
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Diseño.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Logica.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.dll
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\Logica.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\CircularProgressBar.xml
+C:\Users\holal\source\repos\XDXDXD\Diseño\bin\Debug\WinFormAnimation.xml
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto V0.2.csprojAssemblyReference.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificarServiciosCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Gerente.frmModificacionPrecio.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmBienvenida.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmDatos.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioGerente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmModificacionCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaGerente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmReservaCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmServiciosCliente.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto.login.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmPantallaAdmin.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Messages.frmCorrecto.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaHorarios.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.reservaTranslado.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.frmInicioAdmin.resources
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto V0.2.csproj.GenerateResource.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto V0.2.csproj.CoreCompileInputs.cache
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto V0.2.csproj.CopyComplete
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.exe
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Diseño.pdb
+C:\Users\holal\source\repos\XDXDXD\Diseño\obj\Debug\Proyecto.Properties.Resources.resources
